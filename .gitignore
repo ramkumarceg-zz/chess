@@ -23,3 +23,6 @@
 .idea/vcs.xml
 .idea/workspace.xml
 chess.iml
+chess.ipr
+chess.iws
+.idea/uiDesigner.xml

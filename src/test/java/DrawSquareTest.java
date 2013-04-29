@@ -9,5 +9,4 @@ public class DrawSquareTest {
     DrawSquare drawSquare = new DrawSquare();
     assertNotNull(drawSquare);
   }
-
 }
