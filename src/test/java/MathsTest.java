@@ -14,7 +14,6 @@ public class MathsTest {
     public int a = 10;
     public int b = 5;
 
-
     @Test
     public void AddTest(){
         Maths add = new Maths();
